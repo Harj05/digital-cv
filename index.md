@@ -1,6 +1,7 @@
 # Harjit Nar 😎
+[Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)<br>
 
-_Data Enthusiast (and sometimes an artist) based in London, UK_ <br>
+**_Data Enthusiast (and sometimes an artist) based in London, UK_**<br>
 
 Hi, I'm Harj. I'm a 26 year old software engineer working at Travelport as a Senior BI Analyst. That means I'm responsible for transforming data into valuable insight, informing strategic and tactical business decisions. My goal is to inform and improve **_decision-making_**, revamp and refine **_operations_**, and create new streams of **_revenue_** - as inspired by [Bernard Marr](https://bernardmarr.com/).
 
@@ -8,31 +9,13 @@ Besides writing code, I enjoy learning about new tech and breaking down complica
 
 Outside of work, I'm always planning for my next art piece. I'm no fancy Instgram influencer, but I do love to explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage.
 
-[Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
-
-#### Table of Contents  
-[Things I Can Do](#thingsIcando) <br>
+### Table of Contents  
 [Technical Experience](#technicalExperience) <br>
 [On The Side](#OnTheSide) <br>
 [Languages](#Languages) <br>
 [Education](#Education) <br>
-<br><br>
+<br>
 
-<a name="thingsIcando"/>
-
-## 👨🏻‍💻 Things I can do
-
-As a data analyst, I can translate data into valuable and comprehensible insights. 
-
-  - Data Analysis 
-  - Reporting and Data Visualisation 
-  - (Interactive) Infographics 
-  - Front-end web development 
-  - Advice and Coaching projects 
-  - Data Engineering
-  - Art & Design Projects
-<br><br>
-<br><br>
 <a name="technicalExperience"/>
 
 ## 👩🏼‍💻 Technical Experience
