@@ -8,16 +8,15 @@ Besides writing code, I enjoy learning about new tech and breaking down complica
 
 Outside of work, I'm always planning for my next art piece. I'm no fancy Instgram influencer, but I do love to explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage.
 
-
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
 
 ##### Table of Contents  
-[Things I Can Do](#thingsIcando)  
-[Technical Experience](#technicalExperience)
-[On The Side](#OnTheSide)  
-[Languages](#Languages) 
-[Education](#Education) 
-
+[Things I Can Do](#thingsIcando) <br>
+[Technical Experience](#technicalExperience) <br>
+[On The Side](#OnTheSide) <br>
+[Languages](#Languages) <br>
+[Education](#Education) <br>
+<br><br>
 
 <a name="thingsIcando"/>
 
@@ -31,10 +30,9 @@ As a data analyst, I can translate data into valuable and comprehensible insight
   - Front-end web development 
   - Advice and Coaching projects 
   - Data Engineering
-  - Art & Design
-
-
-
+  - Art & Design Projects
+<br><br>
+<br><br>
 <a name="technicalExperience"/>
 
 ## 👩🏼‍💻 Technical Experience
@@ -77,6 +75,7 @@ Industry 4.0 AI solutions to optimise industrial asset performance for efficienc
   - Product design, testing and market research activities.
   - **_Technologies used:_** Microsoft Suite, Jira, Confluence
   <br><br>
+  <br><br>
 
 <a name="OnTheSide"/>
 
@@ -105,6 +104,7 @@ A global movement of people who won't live with poverty
   - Working in the retail store to sell a variety of donated clothes and accessories, books, and homewares.
   - Participated in fundraising events around London. 
   <br><br>
+  <br><br>
 
 <a name="Languages"/>
 
@@ -113,7 +113,7 @@ A global movement of people who won't live with poverty
 **English**: Native <br>
 **Punjabi**: Basic
 <br><br>
-
+<br><br>
 <a name="Education"/>
 
 ## 👩🏼‍🎓 Education
