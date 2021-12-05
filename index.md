@@ -1,8 +1,14 @@
 # Harjit Nar
 
-_Data Enthusiast (and sometimes a journalist) based in London, UK_ <br>
+_Data Enthusiast (and sometimes an artist) based in London, UK_ <br>
 
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
+
+
+## 👩🏼‍🎓 Education
+
+**Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
+[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -72,14 +78,8 @@ A global movement of people who won't live with poverty
   <br><br>
 
   
-
 ## 💬 Languages
 
 **English**: Native <br>
 **Punjabi**: Basic
 <br><br>
-
-## 👩🏼‍🎓 Education
-
-**Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
-[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
