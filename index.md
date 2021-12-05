@@ -65,9 +65,9 @@ Industry 4.0 AI solutions to optimise industrial asset performance for efficienc
   - **_Technologies used:_** Microsoft Suite, Jira, Confluence
   <br><br>
 
-## 📌 On The Side
+## 📌 On The Side **
 
-** 👨‍🎨 Artist and Digital Media Creator** (https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
+**Artist** @ [hvrj.nvr](https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
 Explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage
   - Created custom drawings and paintings using acrylics, indian-inks and pencil on high quality papers and canvases for commissioned pieces. 
   - Included in Parallax Air Exhibition in Kensington, London.
