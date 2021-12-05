@@ -2,7 +2,16 @@
 
 _Data Enthusiast (and sometimes an artist) based in London, UK_ <br>
 
+Hi, I'm Harj. I'm a 26 year old software engineer working at Travelport as a Senior BI Analyst. That means I'm responsible for transforming data into valuable insight, informing strategic and tactical business decisions.
+
+Besides writing code, I enjoy learning about new tech and breaking down complicated topics into simple terms. If you have an exciting project or a product, feel free to reach out via the contact form. I'm always happy to explore ways to collaborate, whether it is writing tutorials, featuring an interview on my blog, or holding deep-dive, consulting sessions on a regular basis.
+
+Outside of work, I'm always planning for my next art piece. I'm no fancy Instgram influencer, but I do love to explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage.
+
+
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
+
+<a name="thingsIcando"/>
 
 ## 👨🏻‍💻 Things I can do
 
@@ -17,12 +26,8 @@ As a data analyst, I can translate data into valuable and comprehensible insight
   - Art & Design
 
 
-## 👩🏼‍🎓 Education
 
-**Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
-[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
-
-
+<a name="technicalExperience"/>
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -65,7 +70,9 @@ Industry 4.0 AI solutions to optimise industrial asset performance for efficienc
   - **_Technologies used:_** Microsoft Suite, Jira, Confluence
   <br><br>
 
-## 📌 On The Side **
+<a name="OnTheSide"/>
+
+## 📌 On The Side
 
 **Artist** @ [hvrj.nvr](https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
 Explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage
@@ -91,9 +98,17 @@ A global movement of people who won't live with poverty
   - Participated in fundraising events around London. 
   <br><br>
 
-  
+<a name="Languages"/>
+
 ## 💬 Languages
 
 **English**: Native <br>
 **Punjabi**: Basic
 <br><br>
+
+<a name="Education"/>
+
+## 👩🏼‍🎓 Education
+
+**Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
+[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
