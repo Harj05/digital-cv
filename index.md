@@ -28,7 +28,7 @@ Travelport is a worldwide travel retail platform. Our next-generation marketplac
   - **_Technologies used:_** SQL, Python, Qlik Sense/View, Apache Airflow, AWS Cloud (QuickSight, Lambda, Redshift, S3, Athena and others), HTML, JavaScript, Command-line / Batch Processing.
 <br><br>
 
-**Analyst - Customer Insights** @ [Centrica](http://centrica.com/) _(Mar 2018 - Sep 2019)_ <br>
+**Analyst** @ [Centrica](http://centrica.com/) _(Mar 2018 - Sep 2019)_ <br>
 A British multinational energy and services company, that supplies electricity and gas to consumers in the United Kingdom and Ireland.
   - Providing high calibre analysis that drives commercial impact within the business, making use of appropriate analytical and statistical techniques.
   - Responsible for large customer-based datasets, to provide insights to business functions and support key initiatives. 
@@ -36,7 +36,7 @@ A British multinational energy and services company, that supplies electricity a
   - **_Technologies used:_** HiveQL, Python, Power BI, Microsoft Suite
     <br><br>
 
-**Consultant - Data & Insights** @ [Capgemini](https://www.capgemini.com) _(Nov 2016 - Mar 2018)_ <br>
+**Consultant** @ [Capgemini](https://www.capgemini.com) _(Nov 2016 - Mar 2018)_ <br>
 A global leader in consulting, digital transformation, technology and engineering services.
   - Worked with a variety of FTSE 100 clients to deliver data-driven solutions to drive business outcomes. 
   - Worked with a large private Utility company, where I was the UK Lead tasked with delivering a series of dashboards providing key insights related to Smart Meter data. 
@@ -44,7 +44,8 @@ A global leader in consulting, digital transformation, technology and engineerin
   - **_Technologies used:_** Python, SQL, Qlik Sense, Microsoft Suite. 
   <br><br>
   
-**Intern - Cyber Security Consultant** @ [NCC Group](https://qio.ai/) _(Jul 2016 - Aug 2016)_ <br>
+**Intern** @ [NCC Group](https://qio.ai/) _(Jul 2016 - Aug 2016)_ <br>
+Global experts in cyber security and risk mitigation.
   - Research internship which allowed me to gain a practical insight into penetration testing where I completed several challenges involved in the graduate training program.
   - Also completed an individual research project "Cloud Computing and Security".
   - **_Technologies used:_** Python, SQL, HTML
