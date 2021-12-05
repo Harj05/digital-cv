@@ -11,6 +11,14 @@ Outside of work, I'm always planning for my next art piece. I'm no fancy Instgra
 
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
 
+##### Table of Contents  
+[Things I Can Do](#thingsIcando)  
+[Technical Experience](#technicalExperience)
+[On The Side](#OnTheSide)  
+[Languages](#Languages) 
+[Education](#Education) 
+
+
 <a name="thingsIcando"/>
 
 ## 👨🏻‍💻 Things I can do
