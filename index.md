@@ -1,14 +1,28 @@
-# Harjit Nar
+# Harjit Nar 😎
 
 _Data Enthusiast (and sometimes an artist) based in London, UK_ <br>
 
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
+
+## 👨🏻‍💻 Things I can do
+
+As a data analyst, I can translate data into valuable and comprehensible insights. My goal is to inform and improve decision-making, revamp and refine operations, and create new streams of revenue (as inspired by [Bernard Marr](https://bernardmarr.com/).
+
+  - Data Analysis 
+  - Reporting and Data Visualisation 
+  - (Interactive) Infographics 
+  - Front-end web development 
+  - Advice and Coaching projects 
+  - Data Engineering
+  - Art & Design
 
 
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
 [Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
+
+
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -53,7 +67,7 @@ Industry 4.0 AI solutions to optimise industrial asset performance for efficienc
 
 ## 📌 On The Side
 
-**Artist and Digital Media Creator** (https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
+** 👨‍🎨 Artist and Digital Media Creator** (https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
 Explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage
   - Created custom drawings and paintings using acrylics, indian-inks and pencil on high quality papers and canvases for commissioned pieces. 
   - Included in Parallax Air Exhibition in Kensington, London.
