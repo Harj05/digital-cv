@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+# Harjit Nar
 
-You can use the [editor on GitHub](https://github.com/Harj05/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Data Enthusiast (and sometimes a journalist) based in London, UK_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Senior BI Analyst** @ [Travelport](https://travelport.com) _(Sep 2019 - Present)_ <br>
+Travelport is a worldwide travel retail platform. Our next-generation marketplace connects buyers and sellers that share our passion for delivering exceptional travel experiences. Unconflicted and independent, we are reinventing a simpler future for travel’s complex ecosystem.
+  - Responsible for our customer-facing consulting, analytics, and insights, as well as internal analysis and reporting to improve our own decision-making.
+  - Deliver innovative new data solutions to support our various airline, hotel, car rental and other travel industry partners.
+  - Hands-on in data wrangling, which involves cleaning and organizing data via using ETL and data modelling techniques.
+  - **_Technologies used:_** SQL, Python, Qlik Sense/View, Apache Airflow, AWS Cloud (QuickSight, Lambda, Redshift, S3, Athena and others), HTML, JavaScript, Command-line / Batch Processing.
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Analyst - Customer Insights** @ [Centrica](http://centrica.com/) _(Mar 2018 - Sep 2019)_ <br>
+A British multinational energy and services company, that supplies electricity and gas to consumers in the United Kingdom and Ireland.
+  - Providing high calibre analysis that drives commercial impact within the business, making use of appropriate analytical and statistical techniques.
+  - Responsible for large customer-based datasets, to provide insights to business functions and support key initiatives. 
+  - Led knowledge-sharing sessions to encourage the use of Python and R in the wider team. 
+  - **_Technologies used:_** HiveQL, Python, Power BI, Microsoft Suite
+    <br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Consultant - Data & Insights** @ [Capgemini](https://www.capgemini.com) _(Nov 2016 - Mar 2018)_ <br>
+A global leader in consulting, digital transformation, technology and engineering services.
+  - Worked with a variety of FTSE 100 clients to deliver data-driven solutions to drive business outcomes. 
+  - Worked with a large private Utility company, where I was the UK Lead tasked with delivering a series of dashboards providing key insights related to Smart Meter data. 
+  - Worked with a multinational Consumer Goods company, where I provided a python-based solution to collate and analyse product data from multiple sources.
+  - **_Technologies used:_** Python, SQL, Qlik Sense, Microsoft Suite. 
+  <br><br>
+  
+**Intern - Cyber Security Consultant** @ [NCC Group](https://qio.ai/) _(Jul 2016 - Aug 2016)_ <br>
+  - Research internship which allowed me to gain a practical insight into penetration testing where I completed several challenges involved in the graduate training program.
+  - Also completed an individual research project "Cloud Computing and Security".
+  - **_Technologies used:_** Python, SQL, HTML
+  <br><br>    
+  
+**Intern** @ [QIO](https://qio.ai/) _(Jun 2015 - Jun 2016)_ <br>
+Industry 4.0 AI solutions to optimise industrial asset performance for efficiency, profitability and sustainability.
+  - Worked in a variety of roles, which was then a startup company consisting of a globally remote team of under 10 employees. 
+  - Primarily involved in the development of a mobile app.
+  - Aiding in design of company website, logo and marketing materials.
+  - Product design, testing and market research activities.
+  - **_Technologies used:_** Microsoft Suite, Jira, Confluence
+  <br><br>
 
-- Bulleted
-- List
+## 📌 On The Side
 
-1. Numbered
-2. List
+**Artist and Digital Media Creator** (https://www.instagram.com/hvrj.nvr/) _(Aug 2016 - Present)_<br>
+Explore pop and abstract art, creating intricate pieces which reflect my Indian-British heritage
+  - Created custom drawings and paintings using acrylics, indian-inks and pencil on high quality papers and canvases for commissioned pieces. 
+  - Included in Parallax Air Exhibition in Kensington, London.
+  - Creating digital artwork for small businesses.
+  <br><br>
 
-**Bold** and _Italic_ and `Code` text
+**Volunteer** @ [Hope for Southall Street Homeless](http://www.hssh.org.uk/) _(2017)_<br>
+An all-year shelter in Southall, London which provides for 14 rough sleepers who have been found and verified by the Ealing Street and Community Outreach team.
+  - Helped by setting up the shelter with beds, tables and chairs etc., cooking fresh hot food, evening and overnight shifts
+  - Also involved in an art-project to help promote the charity.
+  <br><br>
 
-[Link](url) and ![Image](src)
-```
+**Volunteer** @ [Apps for Good](https://www.appsforgood.org/) _(2016)_<br>
+10 years of supporting 200,000+ young people grow their confidence & find their passion for technology with free courses.
+  - Involved in the Apps for Good Hack event where I represented Capgemini, sharing my experiences and supporting students as they undertook the technical challenges.
+  <br><br>
+  
+**Volunteer** @ [Oxfam](https://www.oxfam.org.uk/) _(2012)_ <br>
+A global movement of people who won't live with poverty
+  - Working in the retail store to sell a variety of donated clothes and accessories, books, and homewares.
+  - Participated in fundraising events around London. 
+  <br><br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  
 
-### Jekyll Themes
+## 💬 Languages
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Harj05/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**English**: Native <br>
+**Punjabi**: Basic
+<br><br>
 
-### Support or Contact
+## 👩🏼‍🎓 Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Bachelor of Science** in Computer Science (with a specialism in Cyber Security) <br>
+[Royal Holloway, University of London](https://www.royalholloway.ac.uk/) - Egham, Surrey, UK _(2013 - 2016)_
