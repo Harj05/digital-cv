@@ -2,7 +2,7 @@
 
 _Data Enthusiast (and sometimes an artist) based in London, UK_ <br>
 
-Hi, I'm Harj. I'm a 26 year old software engineer working at Travelport as a Senior BI Analyst. That means I'm responsible for transforming data into valuable insight, informing strategic and tactical business decisions.
+Hi, I'm Harj. I'm a 26 year old software engineer working at Travelport as a Senior BI Analyst. That means I'm responsible for transforming data into valuable insight, informing strategic and tactical business decisions. My goal is to inform and improve **_decision-making_**, revamp and refine **_operations_**, and create new streams of **_revenue_** - as inspired by [Bernard Marr](https://bernardmarr.com/).
 
 Besides writing code, I enjoy learning about new tech and breaking down complicated topics into simple terms. If you have an exciting project or a product, feel free to reach out via the contact form. I'm always happy to explore ways to collaborate, whether it is writing tutorials, featuring an interview on my blog, or holding deep-dive, consulting sessions on a regular basis.
 
@@ -10,7 +10,7 @@ Outside of work, I'm always planning for my next art piece. I'm no fancy Instgra
 
 [Email](mailto:harjnar@gmail.com) / [Website](https://harjitnar.com/) / [LinkedIn](https://www.linkedin.com/in/har05/) / [GitHub](https://github.com/harj05/)
 
-##### Table of Contents  
+#### Table of Contents  
 [Things I Can Do](#thingsIcando) <br>
 [Technical Experience](#technicalExperience) <br>
 [On The Side](#OnTheSide) <br>
@@ -22,7 +22,7 @@ Outside of work, I'm always planning for my next art piece. I'm no fancy Instgra
 
 ## 👨🏻‍💻 Things I can do
 
-As a data analyst, I can translate data into valuable and comprehensible insights. My goal is to inform and improve decision-making, revamp and refine operations, and create new streams of revenue (as inspired by [Bernard Marr](https://bernardmarr.com/).
+As a data analyst, I can translate data into valuable and comprehensible insights. 
 
   - Data Analysis 
   - Reporting and Data Visualisation 
